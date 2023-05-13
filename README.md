@@ -15,6 +15,7 @@ Thie principle behind this phenomenon is explained in [Why do colliding blocks c
 Although I couldn't completely understand the video, I will try to explain it as well as I could.
 
 First let's derive the velocity of a body after elastic collision. We know that the `kinetic energy` and momentum of a body remains `constant` after elastic collision. ie,
+
 $$
 m_1v_1 + m_2v_2 = constant
 $$
@@ -69,7 +70,10 @@ Dividing $(2)$ by $(1) =>$
 
 $$
 \frac{u_1^2-v_1^2}{u_1-v_1} = \frac{v_2^2-u_2^2}{v_2-u_2} <br/>
-simplifying, <br/>
+simplifying,
+$$
+
+$$
 u_1 + v_1 = u_2 + v_2--------(3)
 $$
 
