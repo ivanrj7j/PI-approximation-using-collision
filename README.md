@@ -18,20 +18,27 @@ First let's derive the velocity of a body after elastic collision. We know that 
 $$
 m_1v_1 + m_2v_2 = constant
 $$
+
+$$
 or
 $$
 
 $$
 m_1u_1 + m_2u_2 = m_1v_1 + m_2v_2--------(0)
 $$
+
 $$
 and
 $$
+
+$$
 \frac{m_1v_1^2}{2} + \frac{m_2v_2^2}{2}  = constant
 $$
+
 $$
 or
 $$
+
 $$
 \frac{m_1u_1^2}{2} + \frac{m_2u_2^2}{2} = \frac{m_1v_1^2}{2} + \frac{m_2v_2^2}{2}
 $$
@@ -49,9 +56,11 @@ Rearragning the equation of conservation of energy and momentum in such a way th
 $$
 m_1(u_1-v_1) = m_2(v_2-u_2)--------(1)
 $$
+
 $$
 and
 $$
+
 $$
 m_1(u_1^2-v_1^2) = m_2(v_2^2-u_2^2)--------(2)
 $$
@@ -68,6 +77,7 @@ From $(3)$, we get:
 $$
 v_2 = u_1 + v_1 - u_2 --------(4)
 $$
+
 $$
 v_1 = u_2 + v_2 - u_1 --------(5)
 $$
@@ -75,9 +85,18 @@ $$
 Putting $(4)$ inside $(0)$ we get
 
 $$
-m_1u_1 + m_2u_2 = m_1v_1 + m_2u_1 + m_2v_1 - m_2u_2 <br/>
-m_1u_1 + m_2u_2 = v_1(m_1 + m_2) + m_2(u_1-u_2) <br/>
-u_1(m_1-m_2) + 2m_2u_2 = v_1(m_1+m_2) <br/>
+m_1u_1 + m_2u_2 = m_1v_1 + m_2u_1 + m_2v_1 - m_2u_2
+$$
+
+$$
+m_1u_1 + m_2u_2 = v_1(m_1 + m_2) + m_2(u_1-u_2)
+$$
+
+$$
+u_1(m_1-m_2) + 2m_2u_2 = v_1(m_1+m_2)
+$$
+
+$$
 v_1 = \frac{u_1(m_1-m_2) + 2m_2u_2}{m_1+m_2}
 $$
 
