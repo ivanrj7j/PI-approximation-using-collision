@@ -69,9 +69,10 @@ $$
 Dividing $(2)$ by $(1) =>$
 
 $$
-\frac{u_1^2-v_1^2}{u_1-v_1} = \frac{v_2^2-u_2^2}{v_2-u_2} <br/>
-simplifying,
+\frac{u_1^2-v_1^2}{u_1-v_1} = \frac{v_2^2-u_2^2}{v_2-u_2}
 $$
+
+simplifying,
 
 $$
 u_1 + v_1 = u_2 + v_2--------(3)
@@ -105,11 +106,13 @@ v_1 = \frac{u_1(m_1-m_2) + 2m_2u_2}{m_1+m_2}
 $$
 
 Similarly, we get $v_2$ as
+
 $$
 v_2 = \frac{u_2(m_2-m_1) + 2m_1u_1}{m_1+m_2}
 $$
 
 Our final Equation is
+
 $$
 V = \frac{U(M-M_o) + 2M_oU_o}{M+M_o}
 $$
