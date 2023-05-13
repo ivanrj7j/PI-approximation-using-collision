@@ -16,16 +16,26 @@ Although I couldn't completely understand the video, I will try to explain it as
 
 First let's derive the velocity of a body after elastic collision. We know that the `kinetic energy` and momentum of a body remains `constant` after elastic collision. ie,
 $$
-m_1v_1 + m_2v_2 = constant <br/>
-or <br/>
+m_1v_1 + m_2v_2 = constant
+$$
+or
+$$
+
+$$
 m_1u_1 + m_2u_2 = m_1v_1 + m_2v_2--------(0)
+$$
 $$
 and
 $$
-\frac{m_1v_1^2}{2} + \frac{m_2v_2^2}{2}  = constant <br/>
-or <br/>
+\frac{m_1v_1^2}{2} + \frac{m_2v_2^2}{2}  = constant
+$$
+$$
+or
+$$
+$$
 \frac{m_1u_1^2}{2} + \frac{m_2u_2^2}{2} = \frac{m_1v_1^2}{2} + \frac{m_2v_2^2}{2}
 $$
+
 
 Where $m_n$ is the mass of the $nth$ object $u_n$ is the initial velocity of the $nth$ object and $v_n$ is the final velocity of the $nth$ object.
 
@@ -37,8 +47,12 @@ $$
 Rearragning the equation of conservation of energy and momentum in such a way that the $m_1$ terms come to the `LHS` of the equation and $m_2$ terms comes to the `RHS` of the equation, we get:
 
 $$
-m_1(u_1-v_1) = m_2(v_2-u_2)--------(1) <br/>
-and  <br/>
+m_1(u_1-v_1) = m_2(v_2-u_2)--------(1)
+$$
+$$
+and
+$$
+$$
 m_1(u_1^2-v_1^2) = m_2(v_2^2-u_2^2)--------(2)
 $$
 
@@ -52,7 +66,9 @@ $$
 
 From $(3)$, we get:
 $$
-v_2 = u_1 + v_1 - u_2 --------(4) <br/>
+v_2 = u_1 + v_1 - u_2 --------(4)
+$$
+$$
 v_1 = u_2 + v_2 - u_1 --------(5)
 $$
 
