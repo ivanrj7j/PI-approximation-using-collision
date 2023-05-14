@@ -16,6 +16,10 @@ class Body:
         self.position += self.velocity * deltaTime
         self.collideWallHandle()
 
+    @property
+    def right(self):
+        return self.position + self.side
+
     def isColliding(self, other:Self) -> bool:
          """
          checks if the body is colliding with any other body
