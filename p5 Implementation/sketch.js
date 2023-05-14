@@ -3,7 +3,6 @@ let totalDigits = 4;
 
 let totalIterationBetweenFrames = 1000;
 // total iteration between frames to avoid deviating from the actual velocity
-// TODO: Find a way to avoid looping a billion times between each frames
 
 let body1 = new Body(Math.pow(100, totalDigits - 1), 100, 300, -2 / totalIterationBetweenFrames);
 let body2 = new Body(1, 30, 30, 0);
